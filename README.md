@@ -13,9 +13,17 @@
 ![self-hosted](https://img.shields.io/badge/self--hosted-7c3aed?style=flat-square) ![Obsidian](https://img.shields.io/badge/Obsidian-7c3aed?style=flat-square) ![knowledge management](https://img.shields.io/badge/knowledge%20management-7c3aed?style=flat-square) ![second brain](https://img.shields.io/badge/second%20brain-7c3aed?style=flat-square)
 ![24-7 production ops](https://img.shields.io/badge/24%2F7%20production%20ops-8250df?style=flat-square) ![observability](https://img.shields.io/badge/observability-8250df?style=flat-square) ![monitoring](https://img.shields.io/badge/monitoring-8250df?style=flat-square) ![alerting](https://img.shields.io/badge/alerting-8250df?style=flat-square) ![reconciliation](https://img.shields.io/badge/reconciliation-8250df?style=flat-square) ![systems architecture](https://img.shields.io/badge/systems%20architecture-8250df?style=flat-square) ![solutions architecture](https://img.shields.io/badge/solutions%20architecture-8250df?style=flat-square)
 
-## Showcase of Jan's Production Systems
+## Systems
 
-[Concierge](https://github.com/janvrsinsky/jv-support-agent) · [Quant Watchtower](https://github.com/janvrsinsky/jv-watchtower-mcp) · [Celestia](https://github.com/janvrsinsky/jv-obsidian-assistant) · [Ledger](https://github.com/janvrsinsky/jv-ledger-agent) · [The Librarian](https://github.com/janvrsinsky/jv-podcast-rag) · [Cortex](https://github.com/janvrsinsky/jv-cortex-platform) · [Dev System](https://github.com/janvrsinsky/jv-dev-system)
+| Project | What it does | Tier |
+|---|---|---|
+| **[Concierge](https://github.com/janvrsinsky/jv-support-agent)** | Drafts grounded replies to customer emails over typed MCP tools, into Gmail Drafts behind a policy gate and human review. Never auto-sends; prompt-injection attempts are quarantined. | 🟢 Production |
+| **[Quant Watchtower](https://github.com/janvrsinsky/jv-watchtower-mcp)** | Read-only MCP operations console over a live 24/7 algorithmic trading fleet. Sanitization is enforced in the data layer, so the strategy never reaches the model. | 🟢 Production |
+| **[Cortex](https://github.com/janvrsinsky/jv-cortex-platform)** | Self-hosted knowledge-AI platform: an Obsidian vault wired for AI agents through an MCP layer, Docker sync, and Python tooling. Ships a runnable clean-room linter. | 🟢 Production |
+| **[Dev System](https://github.com/janvrsinsky/jv-dev-system)** | The method behind all of these: bounded efforts, standing invariants, a per-change audit trail, acceptance discipline. Validated on a live production system for two-plus months. | ⚙️ Method |
+| **[Celestia](https://github.com/janvrsinsky/jv-obsidian-assistant)** | Persona-driven assistant over a private Obsidian vault through a typed MCP filesystem core. Reads before it answers; every write routes to its owning note. | 🟡 Demo |
+| **[Ledger](https://github.com/janvrsinsky/jv-ledger-agent)** | Accounting-ops agent that closes the books over typed MCP tools. Auto-books only what a deterministic policy gate proves safe, routes the rest to a human, prints a full audit trail. | 🟡 Demo |
+| **[The Librarian](https://github.com/janvrsinsky/jv-podcast-rag)** | Agentic RAG over a podcast archive: hybrid BM25 + dense retrieval (RRF), answers cited to the minute, scored against a hand-labeled gold set (recall@k, MRR). | 🔵 Lab |
 
 ## One shape, every system
 
