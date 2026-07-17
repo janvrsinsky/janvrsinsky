@@ -16,40 +16,59 @@
 
 ## Systems
 
-<table>
-<tr>
-<td width="240"><a href="https://github.com/janvrsinsky/jv-mmo-proving-ground"><img src="https://raw.githubusercontent.com/janvrsinsky/jv-mmo-proving-ground/main/stills/00-title.jpg" width="220" alt="Proving Ground"></a></td>
-<td><b><a href="https://github.com/janvrsinsky/jv-mmo-proving-ground">Proving Ground</a></b> &nbsp;·&nbsp; ⭐ Showcase<br>Generative and retrieval AI over vast game data. A contract-blind LLM drafts warships from one sentence; a grounded assistant reads 149,288,931 rows of synthetic combat telemetry in indexed Postgres and cites the exact rows or refuses. One typed contract judges every row that moves.</td>
-</tr>
-<tr>
-<td width="240"><a href="https://github.com/janvrsinsky/jv-support-agent"><img src="https://raw.githubusercontent.com/janvrsinsky/jv-support-agent/main/assets/hero.png" width="220" alt="Concierge"></a></td>
-<td><b><a href="https://github.com/janvrsinsky/jv-support-agent">Concierge</a></b> &nbsp;·&nbsp; 🟢 Production<br>Drafts grounded replies to customer emails over typed MCP tools, into Gmail Drafts behind a policy gate and human review. Never auto-sends; prompt-injection attempts are quarantined.</td>
-</tr>
-<tr>
-<td width="240"><a href="https://github.com/janvrsinsky/jv-watchtower-mcp"><img src="https://raw.githubusercontent.com/janvrsinsky/jv-watchtower-mcp/main/assets/hero.png" width="220" alt="Quant Watchtower"></a></td>
-<td><b><a href="https://github.com/janvrsinsky/jv-watchtower-mcp">Quant Watchtower</a></b> &nbsp;·&nbsp; 🟢 Production<br>Read-only MCP operations console over a live 24/7 algorithmic trading fleet. Sanitization is enforced in the data layer, so the strategy never reaches the model.</td>
-</tr>
-<tr>
-<td width="240"><a href="https://github.com/janvrsinsky/jv-cortex-platform"><img src="https://raw.githubusercontent.com/janvrsinsky/jv-cortex-platform/main/assets/hero.png" width="220" alt="Cortex"></a></td>
-<td><b><a href="https://github.com/janvrsinsky/jv-cortex-platform">Cortex</a></b> &nbsp;·&nbsp; 🟢 Production<br>Self-hosted knowledge-AI platform: an Obsidian vault wired for AI agents through an MCP layer, Docker sync, and Python tooling. Ships a runnable clean-room linter.</td>
-</tr>
-<tr>
-<td width="240"><a href="https://github.com/janvrsinsky/jv-dev-system"><img src="https://raw.githubusercontent.com/janvrsinsky/jv-dev-system/main/assets/hero.png" width="220" alt="Dev System"></a></td>
-<td><b><a href="https://github.com/janvrsinsky/jv-dev-system">Dev System</a></b> &nbsp;·&nbsp; ⚙️ Method<br>The method behind all of these: bounded efforts, standing invariants, a per-change audit trail, acceptance discipline. Validated on a live production system for two-plus months.</td>
-</tr>
-<tr>
-<td width="240"><a href="https://github.com/janvrsinsky/jv-obsidian-assistant"><img src="https://raw.githubusercontent.com/janvrsinsky/jv-obsidian-assistant/main/assets/hero.png" width="220" alt="Celestia"></a></td>
-<td><b><a href="https://github.com/janvrsinsky/jv-obsidian-assistant">Celestia</a></b> &nbsp;·&nbsp; 🟢 In daily production<br>Persona-driven assistant over a private Obsidian vault through a typed MCP filesystem core. Reads before it answers; every write routes to its owning note.</td>
-</tr>
-<tr>
-<td width="240"><a href="https://github.com/janvrsinsky/jv-ledger-agent"><img src="https://raw.githubusercontent.com/janvrsinsky/jv-ledger-agent/main/assets/hero.png" width="220" alt="Ledger"></a></td>
-<td><b><a href="https://github.com/janvrsinsky/jv-ledger-agent">Ledger</a></b> &nbsp;·&nbsp; 🟢 Mirrors production<br>Accounting-ops agent that closes the books over typed MCP tools. Auto-books only what a deterministic policy gate proves safe, routes the rest to a human, prints a full audit trail.</td>
-</tr>
-<tr>
-<td width="240"><a href="https://github.com/janvrsinsky/jv-podcast-rag"><img src="https://raw.githubusercontent.com/janvrsinsky/jv-podcast-rag/main/assets/hero.png" width="220" alt="The Librarian"></a></td>
-<td><b><a href="https://github.com/janvrsinsky/jv-podcast-rag">The Librarian</a></b> &nbsp;·&nbsp; 🔵 Lab<br>Agentic RAG over a podcast archive: hybrid BM25 + dense retrieval (RRF), answers cited to the minute, scored against a hand-labeled gold set (recall@k, MRR).</td>
-</tr>
-</table>
+<a href="https://github.com/janvrsinsky/jv-mmo-proving-ground"><img src="https://raw.githubusercontent.com/janvrsinsky/jv-mmo-proving-ground/main/stills/00-title.jpg" width="260" alt="Proving Ground"></a>
+
+**[Proving Ground](https://github.com/janvrsinsky/jv-mmo-proving-ground)** &nbsp;·&nbsp; ⭐ Showcase<br>
+Generative and retrieval AI over vast game data. A contract-blind LLM drafts warships from one sentence; a grounded assistant reads 149,288,931 rows of synthetic combat telemetry in indexed Postgres and cites the exact rows or refuses. One typed contract judges every row that moves.
+
+---
+
+<a href="https://github.com/janvrsinsky/jv-support-agent"><img src="https://raw.githubusercontent.com/janvrsinsky/jv-support-agent/main/assets/hero.png" width="260" alt="Concierge"></a>
+
+**[Concierge](https://github.com/janvrsinsky/jv-support-agent)** &nbsp;·&nbsp; 🟢 Production<br>
+Drafts grounded replies to customer emails over typed MCP tools, into Gmail Drafts behind a policy gate and human review. Never auto-sends; prompt-injection attempts are quarantined.
+
+---
+
+<a href="https://github.com/janvrsinsky/jv-watchtower-mcp"><img src="https://raw.githubusercontent.com/janvrsinsky/jv-watchtower-mcp/main/assets/hero.png" width="260" alt="Quant Watchtower"></a>
+
+**[Quant Watchtower](https://github.com/janvrsinsky/jv-watchtower-mcp)** &nbsp;·&nbsp; 🟢 Production<br>
+Read-only MCP operations console over a live 24/7 algorithmic trading fleet. Sanitization is enforced in the data layer, so the strategy never reaches the model.
+
+---
+
+<a href="https://github.com/janvrsinsky/jv-cortex-platform"><img src="https://raw.githubusercontent.com/janvrsinsky/jv-cortex-platform/main/assets/hero.png" width="260" alt="Cortex"></a>
+
+**[Cortex](https://github.com/janvrsinsky/jv-cortex-platform)** &nbsp;·&nbsp; 🟢 Production<br>
+Self-hosted knowledge-AI platform: an Obsidian vault wired for AI agents through an MCP layer, Docker sync, and Python tooling. Ships a runnable clean-room linter.
+
+---
+
+<a href="https://github.com/janvrsinsky/jv-dev-system"><img src="https://raw.githubusercontent.com/janvrsinsky/jv-dev-system/main/assets/hero.png" width="260" alt="Dev System"></a>
+
+**[Dev System](https://github.com/janvrsinsky/jv-dev-system)** &nbsp;·&nbsp; ⚙️ Method<br>
+The method behind all of these: bounded efforts, standing invariants, a per-change audit trail, acceptance discipline. Validated on a live production system for two-plus months.
+
+---
+
+<a href="https://github.com/janvrsinsky/jv-obsidian-assistant"><img src="https://raw.githubusercontent.com/janvrsinsky/jv-obsidian-assistant/main/assets/hero.png" width="260" alt="Celestia"></a>
+
+**[Celestia](https://github.com/janvrsinsky/jv-obsidian-assistant)** &nbsp;·&nbsp; 🟢 In daily production<br>
+Persona-driven assistant over a private Obsidian vault through a typed MCP filesystem core. Reads before it answers; every write routes to its owning note.
+
+---
+
+<a href="https://github.com/janvrsinsky/jv-ledger-agent"><img src="https://raw.githubusercontent.com/janvrsinsky/jv-ledger-agent/main/assets/hero.png" width="260" alt="Ledger"></a>
+
+**[Ledger](https://github.com/janvrsinsky/jv-ledger-agent)** &nbsp;·&nbsp; 🟢 Mirrors production<br>
+Accounting-ops agent that closes the books over typed MCP tools. Auto-books only what a deterministic policy gate proves safe, routes the rest to a human, prints a full audit trail.
+
+---
+
+<a href="https://github.com/janvrsinsky/jv-podcast-rag"><img src="https://raw.githubusercontent.com/janvrsinsky/jv-podcast-rag/main/assets/hero.png" width="260" alt="The Librarian"></a>
+
+**[The Librarian](https://github.com/janvrsinsky/jv-podcast-rag)** &nbsp;·&nbsp; 🔵 Lab<br>
+Agentic RAG over a podcast archive: hybrid BM25 + dense retrieval (RRF), answers cited to the minute, scored against a hand-labeled gold set (recall@k, MRR).
 
 ## One shape, every system
 
