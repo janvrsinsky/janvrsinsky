@@ -29,6 +29,11 @@ Generative and retrieval AI over vast game data. An LLM drafts warships from one
 **[PARALLAX](https://github.com/janvrsinsky/jv-parallax)** &nbsp;·&nbsp; Portfolio build<br>
 A backtest ends in one number and a user reads it as a fact about the past. Three measurements of the room between that number and the market it describes, on public exchange data anyone can re-derive.
 
+<a href="https://github.com/janvrsinsky/jv-langgraph-kb-agent"><img src="https://raw.githubusercontent.com/janvrsinsky/jv-langgraph-kb-agent/main/assets/hero.png" width="260" alt="Brain"></a>
+
+**[Brain](https://github.com/janvrsinsky/jv-langgraph-kb-agent)** &nbsp;·&nbsp; Portfolio build<br>
+A scripted test model proves an agent graph is wired. It cannot show what the loop does once a real model is the one deciding. A hand-assembled LangGraph StateGraph over a knowledge base, with the offline suite running keyless in CI and the live behaviour traced over eight probes.
+
 ---
 
 <a href="https://github.com/janvrsinsky/jv-support-agent"><img src="https://raw.githubusercontent.com/janvrsinsky/jv-support-agent/main/assets/hero.png" width="260" alt="Concierge"></a>
