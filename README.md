@@ -4,7 +4,7 @@
 
 **I build production AI systems and own the architecture end to end.**
 
-Twenty-five years in software, most of it in private repositories. This account was created in July 2026 as a deliberate portfolio: each repo is either a sanitized cut of a system I actually run, or a study built end to end on public data, and every README says which.
+In software since 1999, most of it in private repositories. This account was created in July 2026 as a deliberate portfolio: each repo is either a sanitized cut of a system I actually run, or a study built end to end on public data, and every README says which.
 
 That span includes running my own company. The private originals behind these repos run on real money and private data, and several have been in continuous use for months. Each repo below shows the design, runnable code, and clips of the real thing.
 
