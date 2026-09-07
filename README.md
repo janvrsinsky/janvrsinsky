@@ -60,7 +60,7 @@ Self-hosted knowledge-AI platform: an Obsidian vault wired for AI agents through
 <a href="https://github.com/janvrsinsky/jv-dev-system"><img src="https://raw.githubusercontent.com/janvrsinsky/jv-dev-system/main/assets/hero.png" width="260" alt="Dev System"></a>
 
 **[Dev System](https://github.com/janvrsinsky/jv-dev-system)** &nbsp;·&nbsp; Production extract<br>
-The method behind all of these: bounded efforts, standing invariants, a per-change audit trail, acceptance discipline. Validated on a live production system for two-plus months.
+The method behind all of these: bounded efforts, standing invariants, a per-change audit trail, acceptance discipline. Validated on a live production system, in continuous use since 2025.
 
 ---
 
