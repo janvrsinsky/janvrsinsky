@@ -8,6 +8,8 @@ In software since 1999, most of it in private repositories. This account was cre
 
 That span includes running my own company. The private originals behind these repos run on real money and private data, and several have been in continuous use for months. Each repo below shows the design, runnable code, and clips of the real thing.
 
+One kind of work runs through most of this account: the harness around an agent. Policy gates that live in code, sanitization enforced in the data layer, evaluation floors that fail a build, and the rules an assistant loads before it acts.
+
 ## Two disclosure classes
 
 Every repo on this account carries one of two labels:
@@ -32,7 +34,7 @@ A backtest ends in one number and a user reads it as a fact about the past. Thre
 <a href="https://github.com/janvrsinsky/jv-langgraph-kb-agent"><img src="https://raw.githubusercontent.com/janvrsinsky/jv-langgraph-kb-agent/main/assets/hero.png" width="260" alt="Brain"></a>
 
 **[Brain](https://github.com/janvrsinsky/jv-langgraph-kb-agent)** &nbsp;·&nbsp; Portfolio build<br>
-A scripted test model proves an agent graph is wired. It cannot show what the loop does once a real model is the one deciding. A hand-assembled LangGraph StateGraph over a knowledge base, with the offline suite running keyless in CI and the live behaviour traced over eight probes.
+A scripted test model proves an agent graph is wired. It cannot show what the loop does once a real model is the one deciding. A hand-assembled LangGraph StateGraph over a knowledge base, with the offline suite running keyless in CI and the live behaviour traced over nine probes.
 
 ---
 
